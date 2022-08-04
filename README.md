@@ -1,5 +1,5 @@
 
-# contest-tracker
+### contest-tracker
 
 
 A very **warm** welcome to this app, my fellow coders!
@@ -27,18 +27,20 @@ Build
 ----
 This app is built with **ReactJS** for frontend, **ExpressJS** for Cross-Origin API calls, **MaterializeCSS** for the UI library. It is deployed with ❤ on **Heroku**. Special thanks to **clist.by API**  💕
 
-Main Page
+##Main Page
 ----
 ![1](https://iili.io/SyVvz7.png)
 
+----
+
 ![2](https://iili.io/SyVgqu.png)
 
-Future
+##Future
 ----
 ![3](https://iili.io/Syw2Fn.png)
 
 
-Live
+##Live
 ----
 ![4](https://iili.io/Syv8yg.png)
 

@@ -27,7 +27,7 @@ Build
 ----
 This app is built with **ReactJS** for frontend, **ExpressJS** for Cross-Origin API calls, **MaterializeCSS** for the UI library. It is deployed with ❤ on **Heroku**. Special thanks to **clist.by API**  💕
 
-##Main Page
+## Main Page
 ----
 ![1](https://iili.io/SyVvz7.png)
 
@@ -35,15 +35,15 @@ This app is built with **ReactJS** for frontend, **ExpressJS** for Cross-Origin 
 
 ![2](https://iili.io/SyVgqu.png)
 
-##Future
+## Future
 ----
 ![3](https://iili.io/Syw2Fn.png)
 
 
-##Live
+## Live
 ----
 ![4](https://iili.io/Syv8yg.png)
 
-About
+## About
 ----
 ![5](https://iili.io/Sy8UU7.png)

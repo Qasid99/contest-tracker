@@ -1,0 +1,4 @@
+node_modules
+/contest-tracker/node_modules
+/contest-tracker/build
+/.env

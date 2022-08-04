@@ -29,7 +29,7 @@ This app is built with **ReactJS** for frontend, **ExpressJS** for Cross-Origin 
 
 Main Page
 ----
-![1](https://user-images.githubusercontent.com/39147514/79638955-2c89bd00-81a6-11ea-8c6f-ef1c5214e3ac.png)
+![1](https://freeimage.host/i/SydcU7)
 
 Future
 ----

@@ -29,20 +29,18 @@ This app is built with **ReactJS** for frontend, **ExpressJS** for Cross-Origin 
 
 Main Page
 ----
-![1](https://iili.io/SydcU7.png)
+![1](https://iili.io/SyVvz7.png)
+![2](https://iili.io/SyVgqu.png)
 
 Future
 ----
-![2](https://user-images.githubusercontent.com/39147514/79638957-2dbaea00-81a6-11ea-89bc-94c0f1cc6f08.png)
+![3](https://iili.io/Syw2Fn.png)
 
-Past
-----
-![3](https://user-images.githubusercontent.com/39147514/79638958-2e538080-81a6-11ea-9ff3-d76255ced842.png)
 
 Live
 ----
-![4](https://user-images.githubusercontent.com/39147514/79638959-2eec1700-81a6-11ea-9ac5-37d0a021653e.png)
+![4](https://iili.io/Syv8yg.png)
 
 About
 ----
-![5](https://user-images.githubusercontent.com/39147514/79638961-2eec1700-81a6-11ea-8850-f7549fc8d33f.png)
+![5](https://iili.io/Sy8UU7.png)
